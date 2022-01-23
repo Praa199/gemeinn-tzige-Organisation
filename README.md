@@ -26,11 +26,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_Praa199/gemeinn-tzige-Organisation">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center"></h3>
 
   <p align="center">
     project_description
@@ -51,7 +46,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -73,14 +67,6 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_Praa199`, `gemeinn-tzige-Organisation`, `` , `linkedin_username`,  ``, ``, `Aufgabe 1: Unterstützungsaufruf`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
@@ -129,47 +115,80 @@ This is an example of how to list things you need to use the software and how to
 
 ## Roadmap
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F0BqgvgIpc8jVksjzDalvtm%2FUnterst%25C3%25BCtzungsaufruf%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F0BqgvgIpc8jVksjzDalvtm%2FUnterst%25C3%25BCtzungsaufruf%3Fnode-id%3D0%253A1" allowfullscreen ></iframe>
 
-- [Figma](https://www.figma.com/file/0BqgvgIpc8jVksjzDalvtm/Unterst%C3%BCtzungsaufruf?node-id=0%3A1)
+- [Figma wireframe](https://www.figma.com/file/0BqgvgIpc8jVksjzDalvtm/Unterst%C3%BCtzungsaufruf?node-id=0%3A1)
 
-  [x]double navbar (gray & white)
+- [x]double navbar (gray & white)
 
-  [x]footer
-  []social media
-  []about
-  []faq
-  []contact
-  []address
-  []back to top button
+- [x]footer
+  - []social media
+  - []about
+  - []faq
+  - []contact
+  - []address
+  - []back to top button
 
 # Landing page:
 
-- main div -[x]background image
-  -[]zooms in/out when scrolling
+- main div - [x]background image
 
--organization div -[x]name of the organization -[x]information about the organization
+  - []zooms in/out when scrolling
 
--projects grid -[x]cards which link to the entire project
+- organization div
 
--organization div -[x]information -[x]number of likes/signatures/supporters -[x]like/sign/support button -[x]share button -[x]donate button -[x]footer
+  - [x]name of the organization
+  - [x]information about the organization
+
+- projects grid
+
+  - [x]cards which link to the entire project
+
+- organization div
+
+  - [x]information
+  - [x]number of likes/signatures/supporters
+  - [x]like/sign/support button
+  - [x]share button
+  - [x]donate button
+  - [x]footer
 
 # Project page:
 
-- main- div--
-  -[]-background image
-  -[]zooms in/out when scrolling
+- main div--
 
-- project d-iv -[x]nam-e of the project -[x]information about the project
-  -[]buttons
-  -[]share
-  -[]donate(toggle)
+  - []-background image
+  - []zooms in/out when scrolling
 
-- donate form div -[x]donate form- -[x]name -[x]last name -[x]email -[x]address -[x]street -[x]city -[x]country -[x]comments -[x]ammount (selection + input) -[x]public thanks -[x]newsletter -[x] donate button
+- project div
+
+  - [x]name of the project
+  - [x]information about the project
+
+- []buttons
+
+  - []share
+  - []donate(toggle)
+
+- donate form div
+
+  - [x]donate form
+  - [x]name
+  - [x]last name
+  - [x]email
+  - [x]address
+  - [x]street
+  - [x]city
+  - [x]country
+  - [x]comments
+  - [x]ammount (selection + input)
+  - [x]public thanks
+  - [x]newsletter
+  - [x] donate button
 
 - 404 error page
-  -[]redirect/refresh
-  -[]exit
+  - []redirect/refresh
+  - []exit
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
