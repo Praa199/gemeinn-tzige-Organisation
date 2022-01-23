@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Bootstrap 101 Template</title>
+    <title>{{title}}</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
@@ -18,22 +18,22 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body style="background-image:url(https://images.unsplash.com/photo-1496661415325-ef852f9e8e7c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTEyfHxyYW5kb218ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60); background-size:contain;">
     {{!-- nav, dark part --}}
-    <nav class="navbar navbar-inverse">
-  ...
+    <nav class="navbar navbar-inverse" style="margin: 0;">
+  <a href="http://">link</a>
+  <a href="http://">link</a>
+
 </nav>
 {{!-- nav light part --}}
-    <div class="page-header">
-  <h1>Example page header <small>Subtext for header</small></h1>
+    <div class="thumbnail" style="height: 10rem;" >
+  <h1>Gemeinnützige <small>Organisation</small></h1>
 </div>
 
 {{!-- organization image --}}
-    <div class="page-header">
-  <h1>here goes the image </h1>
-  <h1>here goes the image </h1>
-  <h1>here goes the image </h1>
+<div class="page-header bg-white text-dark" style="height:30rem;">
 </div>
+
 
     {{{body}}}
 

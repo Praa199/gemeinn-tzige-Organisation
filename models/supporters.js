@@ -15,8 +15,8 @@ var SupporterSchema = new Schema({
   support: [
     {
       project_name: { type: String },
-      project_id: { type: Schema.Types.ObjectId, ref: "Project" },
-      // date_of_support: { type: Date, default: Date.now },
+      project_id: { type: String },
+      date_of_support: { type: Date, default: Date.now() },
       ammount: { type: Number },
       public: { type: Boolean },
       comments: { type: String, maxLength: 150 },
